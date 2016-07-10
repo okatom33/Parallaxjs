@@ -1,6 +1,5 @@
 var rightKey, leftKey, topKey, bottomKey;
 
-
 $(document).ready(function () {
 
 	//Set up the triggers for the arrow keys
@@ -132,4 +131,3 @@ $(document).ready(function () {
 	parallax.index.show();
 
 });
-
